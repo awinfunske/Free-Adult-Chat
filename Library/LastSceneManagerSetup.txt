@@ -1,0 +1,6 @@
+sceneSetups:
+- path: Assets/Third Person Character Engine Multiplayer/Scenes/Multiplayer Demo
+    Scene/Demo Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
